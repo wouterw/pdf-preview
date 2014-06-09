@@ -1,0 +1,8 @@
+.pdf {
+  border: 1px solid #f9f9f9;
+  margin: 0 10px 5px 0;
+}
+
+.pdf:hover {
+  border-color: #ccc;
+}
